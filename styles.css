@@ -1,0 +1,5 @@
+body { font-family: sans-serif; margin: 2rem; }
+    .card { border: 1px solid #ccc; border-radius: 8px; padding: 1rem; margin-top: 1rem; }
+    input { padding: 0.5rem; width: 300px; }
+    button { padding: 0.5rem 1rem; }
+    pre { background-color: #f4f4f4; padding: 1rem; white-space: pre-wrap; }
